@@ -1,6 +1,6 @@
 // ✅ Firebase Configuration (replace with your actual config)
 const firebaseConfig = {
-  apiKey: "AIzaSyAMQsDzYw17_Pbgl1l2mpgQ0-S7Eg9VfmE",
+  apiKey: "",
   authDomain: "photo-and-video-websites.firebaseapp.com",
   projectId: "photo-and-video-websites",
   storageBucket: "photo-and-video-websites.appspot.com", // corrected
